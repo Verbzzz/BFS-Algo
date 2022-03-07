@@ -1,3 +1,2 @@
 # BFS-Algo
-The program builds graphs in the probability of "x" and checks if the graph is connected,
-if there's an isolated vertex and finds out what is the diameter of the graph/s.
+Erdos-Renyi model Project - Creating random graphs where the quantities of nodes and edges are random variables defined according to the Erdos-Renyi probability model and researching their properties using the BFS algorithm in C.
